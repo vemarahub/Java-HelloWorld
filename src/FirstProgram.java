@@ -5,6 +5,10 @@ public class FirstProgram {
 		System.out.println("Hello World!!");
 
 	}
+	
+	public void sales(){
+		System.out.println("Hello Sales!");
+	}
 
 	public void product(){
 		System.out.println("Hello Product!!");
