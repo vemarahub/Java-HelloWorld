@@ -7,7 +7,7 @@ public class FirstProgram {
 	}
 	
 	public void sales(){
-		System.out.println("Hello Sales!");
+		System.out.println("Hello Sales to Products!!");
 	}
 
 	public void product(){
