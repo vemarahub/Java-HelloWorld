@@ -6,4 +6,8 @@ public class FirstProgram {
 
 	}
 
+	public void product(){
+		System.out.println("Hello Product!!");
+	}
+	
 }
